@@ -1,4 +1,4 @@
-# TBUNGGL
+# TBUNGGL (Tap the Button Underneath the Nearest Glowing Green LED)
 This program implements an Arduino controlled game based on the popular phone game "Piano Tiles". The point of this game
 is to hit the buttons underneath the "falling" green LEDs as they reach the last position. The rate at which the LEDs
 move down keeps increasing. For every LED that is hit correctly, a point is rewarded. The game is lost if a single
