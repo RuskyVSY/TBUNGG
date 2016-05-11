@@ -12,4 +12,4 @@ A seven-segment LED display has also been implemented in order to display the pl
 
 In order to overcome the output pin limitations of the Arduino microcontroller, demultiplexing and shift registers are used to allow control of the entire LED array. 
 
-Pictures of the hardware in testing stages are included.
+Pictures of some of the hardware in testing stages are included for a better visual of this device's operation.
